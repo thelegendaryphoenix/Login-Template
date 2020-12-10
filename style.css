@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-image: url(landingimage.jpg);
+    background-image: url(assets/landingimage.jpg);
     background-size: cover;
     background-position: center;
     font-family: sans-serif;
